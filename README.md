@@ -34,7 +34,7 @@ Movie Details           |  Movie Details 2
 :-------------------------:|:-------------------------:
 ![Movie Details](Screenshots/transformers_md.jpg) |  ![Movie Details2](Screenshots/transformers_md2.jpg)
 
-Main Screen          |  Search Screen
+Main Screen: TV-Show          |  Search Screen
 :-------------------------:|:-------------------------:
 <img src="Screenshots/Popular_TV.jpg" height="479" /> |  ![Search screen](Screenshots/Search.jpg)
 
