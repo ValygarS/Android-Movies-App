@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_movie"
+        android:enabled="true"
+        android:icon="@drawable/ic_action_movie"
+        android:title="@string/bottom_menu_movie"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/action_tv"
+        android:enabled="true"
+        android:icon="@drawable/ic_action_tv"
+        android:title="@string/bottom_menu_tv"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/action_favorites"
+        android:enabled="true"
+        android:icon="@drawable/ic_favourite"
+        android:title="@string/bottom_menu_fav"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/action_search"
+        android:enabled="true"
+        android:icon="@drawable/ic_search"
+        android:title="@string/bottom_menu_search"
+        app:showAsAction="ifRoom" />
+
+</menu>

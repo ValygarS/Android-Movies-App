@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/nav_main"
+        android:title="@string/menu_main" />
+    <item
+        android:id="@+id/nav_watchlist"
+        android:title="@string/menu_watched" />
+    <item
+        android:id="@+id/nav_wishlist"
+        android:title="@string/menu_wish" />
+    <item
+        android:id="@+id/nav_signout"
+        android:title="@string/menu_signout" />
+</menu>

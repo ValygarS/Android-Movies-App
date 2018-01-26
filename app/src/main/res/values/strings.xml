@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Kan Kan Movies</string>
+    <string name="menu_main">Main screen</string>
+    <string name="menu_watched">Show Watchist</string>
+    <string name="menu_wish">Show Wishlist</string>
+    <string name="menu_signout">Sign Out</string>
+
+    <string name="bottom_menu_movie">Movies</string>
+    <string name="bottom_menu_tv">Tv-Show</string>
+    <string name="bottom_menu_fav">Wishlist</string>
+    <string name="bottom_menu_search">Search</string>
+
+    <string name="main_profile">Profile</string>
+    <string name="main_videos">Trailers</string>
+
+    <string name="tmdb_base_url">https://api.themoviedb.org/3/</string>
+    <string name="tmdb_api_key">972ae5fc554d6a7be55da7069ba2e982</string>
+    <string name="login_email_label">Email:</string>
+    <string name="login_password_label">Password:</string>
+    <string name="signin_button">SIGN IN</string>
+    <string name="register_button">Register</string>
+
+    <string name="movie_title">Title:</string>
+    <string name="movie_year">Year:</string>
+    <string name="movie_time">Runtime:</string>
+    <string name="movie_genre">Genre:</string>
+    <string name="button_add_wishlist">Add to Wishlist</string>
+    <string name="button_delete_wishlist">Remove from Wishlist</string>
+    <string name="movie_recommended">You may also like</string>
+    <string name="seasons_label">Seasons</string>
+
+    <string name="item_type_movie">Movie</string>
+    <string name="item_type_tv">Tv-Show</string>
+
+    <string name="facebook_app_id">1479462095435165</string>
+    <string name="fb_login_protocol_scheme">fb1479462095435165</string>
+
+    <string name="app_label">Kan Kan Movies</string>
+    <string name="search_hint">Search movies or tv-shows</string>
+    <string name="search_title">Searching&#8230;</string>
+    <string name="first_air_date">First air date:</string>
+
+    <string name="tv_details_seasons_lbl">Seasons:</string>
+    <string name="tv_details_episodes_lbl">Episodes:</string>
+    <string name="tv_bkgrd_content_descr">background poster</string>
+    <string name="tv_show_poster_content_descr">tv show poster</string>
+    <string name="season_episodes_lbl">Episodes:</string>
+    <string name="main_signout">SIGNOUT</string>
+
+
+</resources>
