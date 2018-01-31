@@ -11,11 +11,11 @@ and to save movies/tv-shows to favourite lists.
 * [Gson](https://github.com/google/gson) – java serialization library to convert objects to JSON and back
 * [Glide](https://github.com/bumptech/glide) – image loading and caching library for Android
 ## Pre-requisites
-Android SDK, Android Studio/Eclipse/etc
+Android SDK, Android Studio/Eclipse IDE/etc
 
 Minimal SDK version: 21
 ## Still in development
-Only Facebook Login works at this moment
+Only **Facebook Login** works at this moment
 ### TODO:
 * [ ] TabLayout and ViewPager for Wishlist, to swipe Movies/Tv-Shows
 * [ ] Display list of episodes inside TV season
